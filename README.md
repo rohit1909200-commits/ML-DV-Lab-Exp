@@ -1,7 +1,4 @@
-# ML & DV Lab Experiments — Rohit
-
-Experiments are arranged in the same chronological order as the reference README:
-https://github.com/vansh-561/GLAN-ML-DV-Lab
+# ML & DV Lab Experiments 
 
 ## Structure
 - `ML/`: 9 Machine Learning experiment scripts.
